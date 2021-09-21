@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="welcome">Welcome,</string>
+    <string name="message">Sign in to continue!</string>
+</resources>
